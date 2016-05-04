@@ -14,4 +14,4 @@ No site Kaggle podem ser vistos vários exemplos de análises de dados
 https://www.kaggle.com/kaggle/us-baby-names
 
 ## Desafio 2 - Conhecimento web
-Utilizando os frameworks de sua preferência crie uma visualização de dados web do desafio 1 e da produção total por dia dos dados producao.json
+Utilizando os frameworks de sua preferência crie uma visualização de dados para mostrar a soma da produção por dia dos dados producao.json
