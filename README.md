@@ -25,3 +25,6 @@ Mas somos mais do que isso. Somos uma oportunidade única de trabalho fora do co
 - Desenvolvimento web utilizando backend em node.js
 - Desenvolvimento web de frontend utilizando angular.js
 - Desenvolvimento de algoritmos para análise de dados
+
+
+## Interessou na vaga? Deixamos um desafio opcional para você mostrar suas habilidades ninjas de programador!
