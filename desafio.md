@@ -9,6 +9,7 @@ Este arquivo contém a produção de uma fábrica ao longo de uma semana.
 Cada entrada do vetor de dados contém o timestamp, indicando que um produto foi produzido.
 
 Faça uma análise exploratória dos dados utilizando a ferramenta que quiser. E e gere algum insight, extraia algum indicador implícito ou apenas cria uma visualização interessante dos dados. Criar algo novo a partir dos dados é a parte mais legal do desafio!
+
 No site Kaggle podem ser vistos vários exemplos de análises de dados
 https://www.kaggle.com/kaggle/us-baby-names
 
