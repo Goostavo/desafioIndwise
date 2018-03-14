@@ -5,10 +5,10 @@ Faça um fork deste repositório e comece a trabalhar com seu código!
 
 ## Desafio 1 - Análise de dados
 Baixe o arquivo JSON **producao.json**
-Este arquivo contém a produção de uma fábrica ao longo de uma semana. 
+Este arquivo contém a produção de uma fábrica ao longo de uma semana.
 Cada entrada do vetor de dados contém o timestamp, indicando que um produto foi produzido.
 
-Faça uma análise exploratória dos dados utilizando a ferramenta que quiser. E e gere algum insight, extraia algum indicador implícito ou apenas cria uma visualização interessante dos dados. Criar algo novo a partir dos dados é a parte mais legal do desafio!
+Faça uma análise exploratória dos dados utilizando a ferramenta que quiser. Gera um gráfico de visualização de produção por dia. Você também pode extrair algum indicador implícito ou apenas cria uma visualização interessante dos dados. Criar algo novo a partir dos dados é a parte mais legal do desafio!
 
 No site Kaggle podem ser vistos vários exemplos de análises de dados
 https://www.kaggle.com/kaggle/us-baby-names
@@ -17,7 +17,7 @@ Descrição dos dados do arquivo **producao.json**:
 
 Campos necessários:
 - **pt** (Production time) : Horário em que foi produzido uma unidade do produto
- 
+
 Outros campos:
 - **ri** (Radio Id) : Identificador do rádio que gerou os dados (sempre será 1, pois pegamos apenas de uma máquina).
 - **uuid** (unique id): Identificador único gerado pelo gerador de analytics
